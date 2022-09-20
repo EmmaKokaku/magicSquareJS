@@ -10,7 +10,7 @@ magicSquareJS is available under the Apache 2.0 license.
 
 # Maintainers
 
-This project is maintained by teamWYXZ:
+This project is maintained by teamWYXZC:
 - Will
 - Yasmin
 - Xanthe
